@@ -24,7 +24,7 @@ echo export GO111MODULE=on >> ~/.bash_profile
 ```
 mkdir -p $GOPATH/src/github.com/tendermint
 cd $GOPATH/src/github.com/tendermint
-git clone https://github.com/tendermint/tendermint.git
+git clone https://github.com/abantogroups/tendermint.git
 cd tendermint
 ```
 
